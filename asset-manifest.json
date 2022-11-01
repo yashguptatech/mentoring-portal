@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yashguptatech/mentoring-portal/static/css/main.d593b004.css",
+    "main.js": "/yashguptatech/mentoring-portal/static/js/main.4ba31abb.js",
+    "static/media/img1.png": "/yashguptatech/mentoring-portal/static/media/img1.642b2451e9ddcb6f0ba7.png",
+    "static/media/mrlogo.png": "/yashguptatech/mentoring-portal/static/media/mrlogo.5c5fb76f27a381337219.png",
+    "index.html": "/yashguptatech/mentoring-portal/index.html",
+    "main.d593b004.css.map": "/yashguptatech/mentoring-portal/static/css/main.d593b004.css.map",
+    "main.4ba31abb.js.map": "/yashguptatech/mentoring-portal/static/js/main.4ba31abb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d593b004.css",
+    "static/js/main.4ba31abb.js"
+  ]
+}
